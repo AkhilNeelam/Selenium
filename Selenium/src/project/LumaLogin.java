@@ -21,6 +21,10 @@ public class LumaLogin {
 		//Logout
 		driver.findElement(By.xpath("//*[@class='action switch']")).click();
 		driver.findElement(By.xpath("//*[@class='authorization-link']")).click();
+
+		//Teest Case 5->Checking the Logo
+		WebElement img=driver.findElement(By.xpath("//a[@class='logo']//img"));
+		System.out.println("The logo is :"+img.isDisplayed());
 		
 		
 		
