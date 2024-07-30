@@ -10,6 +10,8 @@
 
 **Test Login with Missing Mandatory Fields**: Assess login behavior with missing essential fields.
 
+**Logo is Displayed on not**: This Ensure the Logo Present on the Application Website
+
 **Page Scrolling:** Verify the ability to scroll up and down on the page.
 
 **Capture Page Screenshot**: Take a screenshot of the current page for documentation or troubleshooting.
